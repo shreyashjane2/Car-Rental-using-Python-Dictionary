@@ -1,10 +1,5 @@
 # Car Rental Management System
 
-A beginner-friendly **Car Rental Management System built with Python**. This project demonstrates how a rental workflow can be represented using Python data structures, functions, and Object-Oriented Programming (OOP).
-
-The repository contains two implementations of the same basic project:
-- `main.py` — an OOP implementation using `Car`, `Customer`, and `Rental` classes.
-- `My_Project.ipynb` — a procedural implementation using dictionaries, lists, and functions.
 
 ## Project Overview
 
@@ -37,62 +32,6 @@ Car_Rental_Management_System/
 ├── .gitignore           # Files excluded from Git
 └── README.md            # Project documentation
 ```
-
-## Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/<your-username>/<your-repository-name>.git
-```
-
-### 2. Open the project folder
-
-```bash
-cd Car_Rental_Management_System
-```
-
-### 3. Check Python installation
-
-Python 3 is required. Check your installed version:
-
-```bash
-python --version
-```
-
-### 4. Run the OOP implementation
-
-```bash
-python main.py
-```
-
-### 5. Run the Jupyter Notebook implementation
-
-Install Jupyter Notebook if it is not already installed:
-
-```bash
-pip install notebook
-```
-
-Start Jupyter:
-
-```bash
-jupyter notebook
-```
-
-Open `My_Project.ipynb` and run the cells.
-
-## How the Project Works
-
-### OOP implementation (`main.py`)
-
-The Python script defines three classes:
-
-| Class | Responsibility |
-|---|---|
-| `Car` | Stores car details and manages car availability. |
-| `Customer` | Stores customer details and manages rented cars. |
-| `Rental` | Stores a rental ID, customer, car, and rental fee. |
 
 **Main workflow:**
 
@@ -159,14 +98,3 @@ This is a basic, in-memory learning project:
 ## Learning Objective
 
 The objective of this project is to understand how a simple real-world car rental workflow can be implemented in Python, first with dictionaries and functions and then with classes and objects.
-
-## Author
-
-
-
-
-- GitHub:https://github.com/shreyashjane2
-
----
-
-If you find this project useful for learning Python fundamentals and OOP, feel free to star the repository.
