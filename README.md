@@ -95,6 +95,6 @@ This is a basic, in-memory learning project:
 - Add unit tests and input validation.
 - Build a web interface using Flask or Django.
 
-## Learning Objective
+## Conclusion
 
-The objective of this project is to understand how a simple real-world car rental workflow can be implemented in Python, first with dictionaries and functions and then with classes and objects.
+The project helped understand how a real-world car rental process can be developed in Python, starting with dictionaries and functions and progressing to object-oriented programming using classes and objects.
