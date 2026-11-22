@@ -162,10 +162,10 @@ The objective of this project is to understand how a simple real-world car renta
 
 ## Author
 
-https://github.com/shreyashjane2
 
 
-- GitHub: [Your GitHub Profile](https://github.com/<your-username>)
+
+- GitHub:https://github.com/shreyashjane2
 
 ---
 
